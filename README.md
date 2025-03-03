@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there, My name is Pho🌐
+a web3 enthusiast, i rly like blockchain tech, full-stack dev
+Working on my biggest ever project Zyne.
+
+i have reuploaded some of my earlier projects, feel free to have a look at my repos.✨
 
 <!--
 **phoeazy/phoeazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
