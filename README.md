@@ -1,4 +1,5 @@
-![rounded_edges](https://github.com/user-attachments/assets/f606a593-9a80-49f1-b8e2-2a6fa29e1f7d)
+![curved_edges_image (1)](https://github.com/user-attachments/assets/04bc35dd-f384-466d-950b-3182d9747925)
+
 
 
 ## Hello there, My name is Pho✨
