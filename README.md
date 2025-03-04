@@ -3,9 +3,7 @@
 
 
 ## Hello there, My name is Pho✨
-a web3 enthusiast, i rly like blockchain tech, full-stack dev
-
-Working on my biggest ever project Zyne.
+a web3 enthusiast, i rly like blockchain tech, full-stack dev working on my biggest ever project Zyne.
 
 i have reuploaded some of my earlier projects, feel free to have a look at my repos🌐
 
