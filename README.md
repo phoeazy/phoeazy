@@ -1,4 +1,4 @@
-![MY YUTRE_00000](https://github.com/user-attachments/assets/df626046-8737-4bfa-8ae5-b5cf91d46465)
+<img src="https://github.com/user-attachments/assets/df626046-8737-4bfa-8ae5-b5cf91464645" width="500">
 
 ## Hello there, My name is Pho🌐
 a web3 enthusiast, i rly like blockchain tech, full-stack dev
