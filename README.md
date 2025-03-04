@@ -1,10 +1,12 @@
-<img src="https://github.com/user-attachments/assets/df626046-8737-4bfa-8ae5-b5cf91464645" width="500">
+![MY YUTRE_00000](https://github.com/user-attachments/assets/dfdcce6e-ecf2-491d-b981-f95c9deba778)
 
-## Hello there, My name is Pho🌐
+
+## Hello there, My name is Pho✨
 a web3 enthusiast, i rly like blockchain tech, full-stack dev
+
 Working on my biggest ever project Zyne.
 
-i have reuploaded some of my earlier projects, feel free to have a look at my repos.✨
+i have reuploaded some of my earlier projects, feel free to have a look at my repos🌐
 
 <!--![MY YUTRE_00000](https://github.com/user-attachments/assets/f5d1f7b1-9ed1-4eda-9f1a-175f982440bc)
 
