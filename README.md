@@ -1,4 +1,4 @@
-![MY YUTRE_00000](https://github.com/user-attachments/assets/dfdcce6e-ecf2-491d-b981-f95c9deba778)
+![rounded_edges](https://github.com/user-attachments/assets/f606a593-9a80-49f1-b8e2-2a6fa29e1f7d)
 
 
 ## Hello there, My name is Pho✨
